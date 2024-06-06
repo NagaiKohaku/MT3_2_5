@@ -5,7 +5,7 @@
 #include "Vector3Math.h"
 #include "Draw.h"
 
-const char kWindowTitle[] = "LE2B_17_ナガイ_コハク_MT3_2_5";
+const char kWindowTitle[] = "LE2B_17_ナガイ_コハク_MT3_2_5 3次元の衝突判定(AABBとAABB)";
 
 
 bool IsCollision(const AABB& aabb1, const AABB& aabb2);
